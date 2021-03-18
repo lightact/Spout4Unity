@@ -1,4 +1,11 @@
 # Spout4Unity
+## Important
+As of January 2021 this plugin is not maintained anymore. The reason is that LightAct is phasing out support of Unity, so that we can focus better on support our Unreal Engine integration.
+
+For the purpose of reference, we are leaving the original readme file intact below:
+
+---
+
 Spout2 support for Unity3D
 
 This plugin allows Unity to receive and share textures from and to external softwares like Resolume, Adobe AIR, After Effects...
